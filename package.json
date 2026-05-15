@@ -1,0 +1,39 @@
+{
+  "name": "arca-epg-payment-gateway-armenia",
+  "version": "1.0.0",
+  "description": "ARCA EPG (Electronic Payment Gateway) client for Armenian banks — ACBA, ASHIB, INECO and all arca.am partners. Supports card binding.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "arca",
+    "epg",
+    "payment",
+    "gateway",
+    "armenia",
+    "acba",
+    "ashib",
+    "ineco",
+    "armenian",
+    "card",
+    "binding"
+  ],
+  "author": "Rafayel Tobelyan <rafayel.tobelyan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobelyan/arca-epg-payment-gateway-armenia"
+  },
+  "homepage": "https://github.com/tobelyan/arca-epg-payment-gateway-armenia#readme",
+  "bugs": {
+    "url": "https://github.com/tobelyan/arca-epg-payment-gateway-armenia/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
