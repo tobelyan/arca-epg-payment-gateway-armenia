@@ -1,6 +1,6 @@
 {
   "name": "arca-epg-payment-gateway-armenia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ARCA EPG (Electronic Payment Gateway) client for Armenian banks — ACBA, ASHIB, INECO and all arca.am partners. Supports card binding.",
   "main": "index.js",
   "types": "index.d.ts",
