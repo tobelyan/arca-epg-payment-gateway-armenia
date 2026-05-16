@@ -305,6 +305,11 @@ try {
   console.error(err.message);
 }
 ```
+## Developed by
+
+[![turn.am](https://turn.am/uploads/static/202602151030155421.svg)](https://turn.am)
+
+This package was developed and is maintained by [turn.am](https://turn.am).
 
 ---
 
